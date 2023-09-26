@@ -16,10 +16,8 @@ You can click the Preview link to take a look at your changes.
 🕸 [Personal webiste](https://khalidibrahim.tk//)
 
 
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-212&show_icons=true&theme=tokyonight" />
-</a>
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-212&hide_progress=false)"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalid-212&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalid-212&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-212&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalid-212&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalid-212&theme=apprentice&utcOffset=8)
