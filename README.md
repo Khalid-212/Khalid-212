@@ -21,3 +21,5 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-212&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalid-212&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalid-212&theme=apprentice&utcOffset=8)
+
+[![An image of @khalid212's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khalid212)](https://holopin.io/@khalid212)
