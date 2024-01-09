@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - Khalid here! I'm currently working on React.
 
 
-- Wanna 💬? You can find me on [Twitter](https://twitter.com/kalid_js), on [LinkedIn](https://www.linkedin.com/in/kalid-js/), or email [Khalid Ibrahim](mailto:khalid.ibr212@gmail.com?subject=[GitHub]).
+- Wanna 💬? You can find me on [Twitter](https://twitter.com/rdpxl), on [LinkedIn](https://www.linkedin.com/in/kalid-js/), or email [Khalid Ibrahim](mailto:khalid.ibr212@gmail.com?subject=[GitHub]).
 
 
 
