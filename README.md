@@ -4,7 +4,7 @@
 - Khalid here! I'm currently working on React.
 
 
-- Wanna 💬? You can find me on [Twitter](https://twitter.com/rdpxl), on [LinkedIn](https://www.linkedin.com/in/kalid-js/), or email [Khalid Ibrahim](mailto:khalid.ibr212@gmail.com?subject=[GitHub]).
+- Wanna 💬? You can find me on [Twitter](https://twitter.com/rdpxl), on [LinkedIn](https://www.linkedin.com/in/khalid-ibrahim-m/), or email [Khalid Ibrahim](mailto:khalid.ibr212@gmail.com?subject=[GitHub]).
 
 
 
