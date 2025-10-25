@@ -18,4 +18,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-212&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalid-212&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalid-212&theme=apprentice&utcOffset=8)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalid-212&theme=darcula&hide_border=true&card_width=625)](https://git.io/streak-stats)
